@@ -1,1 +1,25 @@
+Project Title: Emergency Room Visit Dashboard
+
+Description:
+This dashboard provides a comprehensive view of emergency room visit data, focusing on patient volume, wait times, and case distribution. It is designed to help hospital administrators monitor performance, optimize resource allocation, and improve patient care.
+
+Key Features:
+
+Patient Volume Trends: Line charts showing daily/weekly ER visits.
+Wait Time Analysis: Visualizations tracking average waiting times and bottlenecks.
+Case Distribution: Charts categorizing types of emergencies and diagnoses.
+Resource Utilization: Insights into staffing levels and equipment usage.
+Tools Used:
+
+Power BI
+DAX
+Data Modeling and Visualization
+How to Use:
+
+Open the .pbit file in Power BI Desktop.
+Connect to your hospital data source or sample data provided.
+Use interactive filters to examine specific time periods or patient groups.
+My Role:
+Created the data model, defined key performance indicators (KPIs), and built interactive visualizations to support data-driven decisions in an emergency room setting.
+
 Emergency Room Visit Dashboard
