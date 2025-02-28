@@ -1,1 +1,25 @@
+Project Title: YOY Sales & Performance Dashboard
+
+Description:
+This interactive dashboard is designed to compare year-over-year sales performance. It highlights trends, seasonal fluctuations, and growth metrics, helping businesses identify patterns and make strategic decisions to drive revenue growth.
+
+Key Features:
+
+Year-over-Year Comparison: Side-by-side visualizations comparing sales metrics across different years.
+Trend Analysis: Line charts that display sales trends over time.
+KPI Cards: Key performance indicators such as total sales, profit margins, and order counts.
+Interactive Filters: Drill-through and slicers to explore data by region, product, or customer segment.
+Tools Used:
+
+Power BI
+DAX
+SQL (for data extraction and transformation)
+How to Use:
+
+Open the .pbit file in Power BI Desktop.
+Connect to your sales data or the provided sample dataset.
+Use the interactive features to drill down into specific regions, products, or time periods.
+My Role:
+Developed advanced DAX measures for dynamic analysis, created interactive visualizations, and optimized the data model to provide actionable insights into year-over-year sales performance.
+
 
