@@ -1,1 +1,25 @@
+Project Title: Project Management Report
+
+Description:
+This dashboard offers a robust solution for tracking project performance, including timelines, budgets, resource allocation, and risk management. It is tailored to help project managers monitor progress, identify issues early, and optimize project delivery.
+
+Key Features:
+
+Gantt Charts: Visual representation of project timelines and milestones.
+Budget Tracking: Analysis of planned vs. actual expenditures.
+Resource Allocation: Insights into team utilization and workload distribution.
+Risk Management: Identification of potential bottlenecks and risk factors.
+Tools Used:
+
+Power BI
+DAX
+Advanced Excel (for data preparation, if needed)
+How to Use:
+
+Open the .pbit file in Power BI Desktop.
+Connect to your project data or use the provided dataset.
+Interact with the dashboard to view project progress, resource allocation, and budget performance.
+My Role:
+Designed the overall layout, developed custom DAX measures for dynamic analysis, and implemented visualizations that effectively communicate project status and risks.
+
 
