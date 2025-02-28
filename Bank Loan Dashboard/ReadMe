@@ -1,1 +1,24 @@
+Project Title: Bank Loan Dashboard
 
+Description:
+This project is an interactive Power BI dashboard designed to analyze bank loan data. It provides insights into loan performance, portfolio segmentation, default rates, and credit risk analysis. The dashboard helps financial institutions make informed decisions by visualizing key metrics in a clear, concise manner.
+
+Key Features:
+
+Loan Distribution Analysis: Visualizations showing the spread of different types of loans.
+Credit Risk Metrics: Analysis of default rates and risk scores.
+Performance Indicators: KPIs for interest rates, loan approvals, and repayments.
+Interactive Filters: Drill-through and slicers for dynamic data exploration.
+
+Tools Used:
+Power BI
+DAX
+Data Visualization Techniques
+How to Use:
+
+Open the .pbit file in Power BI Desktop.
+Connect to your data source or use the provided sample data.
+Interact with the dashboard to view detailed insights into the bank loan portfolio.
+
+My Role:
+Developed the data model, implemented advanced DAX calculations, and designed the interactive visualizations to highlight key trends in the loan data
